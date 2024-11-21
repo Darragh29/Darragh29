@@ -1,5 +1,11 @@
-<h1 align="center">Hey, I'm Darragh</h1>
+<h1 align="center">Hey, I'm Darragh 🙂</h1>
+<h3 align="center">Computer science student and programmer from Ireland 🇮🇪 with interests in machine learning, computer vision, full stack development!</h3>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darragh29" alt="darragh29" /></a> </p>
+
+- 🔭 I’m currently working on **Record recognition using computer vision**
+
+- 🌱 I’m currently learning **Computer Vision, React, Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
